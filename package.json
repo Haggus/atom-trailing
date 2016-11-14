@@ -1,0 +1,18 @@
+{
+  "name": "trailing",
+  "main": "./lib/atom-trailing",
+  "version": "0.0.0",
+  "description": "Highlights trailing whitespace characters",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-trailing:toggle"
+  },
+  "repository": "https://github.com/Haggus/atom-trailing",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
